@@ -16,7 +16,7 @@
   <img align="center" alt="GiovannaMelo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img align="center" alt="GiovannaMelo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
-<div>
+<div align="center">
   <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
  ![Snake animation](https://github.com/GiovannaMelo/GiovannaMelo/blob/output/github-contribution-grid-snake.svg)
