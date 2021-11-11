@@ -15,4 +15,4 @@
   <img align="center" alt="GiovannaMelo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="center" alt="GiovannaMelo-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
- ![Snake animation](https://github.com/GiovannaMelo/GiovannaMelo/blob/output/github-contribution-grid-snake.svg)
+
